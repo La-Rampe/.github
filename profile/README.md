@@ -57,16 +57,6 @@
 
 ###
 
-<h2 align="center">Contributions</h2>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/la-rampe/.github/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="center">Visites du profil</h2>
 
 ###
